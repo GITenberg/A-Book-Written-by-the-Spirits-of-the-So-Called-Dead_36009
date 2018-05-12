@@ -10,6 +10,8 @@ covers:
 - cover_type: archival
   image_path: 36009-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36009#A-Book-Written-by-the-Spirits-of-the-So-Called-Dead
 gutenberg_issued: '2011-05-01'
 gutenberg_type: Text
 identifiers:
